@@ -1,0 +1,1 @@
+## Task: Use an ML program to create a monitoring system that can distinguish between fake (robot) reviews and actual reviews for electronics.
